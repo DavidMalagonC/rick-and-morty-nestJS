@@ -3,7 +3,7 @@
 
 # Rick and Morty API - NestJS
 
-This project is an example API to manage **Rick and Morty** characters, developed with **NestJS**, applying **SOLID principles**, **Clean Architecture**, **clean code**, **Vertical Slice Architecture**, **design patterns**, and development best practices.
+This project is an API CRUD to manage **Rick and Morty** characters, developed with **NestJS**, applying **SOLID principles**, **Clean Architecture**, **clean code**, **Vertical Slice Architecture**, **design patterns**, and development best practices.
 
 ## Technologies Used
 
